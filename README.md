@@ -1,9 +1,6 @@
 
 # Hi there, I'm Roy 👋
 
-I'm a Software developer, love Computer Science :)
+I'm a Software developer, love LLM inference :)
 
-    DevOps --- DBOps
-    LLMOps --- MLOps
-
-Currently I am working on LLM inference.
+Currently I am building vLLM.
